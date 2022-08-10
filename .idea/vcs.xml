@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/simple_api_rest_sqlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple_api_rest_sqlite/simple_api_rest_sqlite" vcs="Git" />
+  </component>
+</project>
